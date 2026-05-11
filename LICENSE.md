@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with secure DaVinci Resolve for macOS Plugin | text-animation + subtitle-generator, the #1 plugin. Includes text-animation and subtitle-generator
 
 
 
